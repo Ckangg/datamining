@@ -2,21 +2,21 @@ def question9_1():
     """
     answer = string'
     """
-    answer= ’Jaccard’
+    answer= 'Jaccard'
     return answer
 
 def question9_2():
-    answer= ’Jaccard’
+    answer= 'Jaccard'
     return answer
 
 def question9_3():
-    answer=’Euclidean’
+    answer='Euclidean'
     return answer 
 
 def question9_4():
-    answer=’Euclidean’
+    answer='Euclidean'
     return answer 
 
 def question9_5():
-    answer=’Cosine Similarity’
+    answer='Cosine Similarity'
     return answer 
